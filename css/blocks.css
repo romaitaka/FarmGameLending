@@ -1,0 +1,30 @@
+.section {
+    margin-bottom: 120px;
+}
+
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+
+.logo {
+    display: block;
+}
+
+
+
+.button {
+    display: block;
+    border-radius: 100px;
+    background: #FF6861;
+    padding: 22px 70px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.4em;
+    width: 227px;
+    border: none;
+}

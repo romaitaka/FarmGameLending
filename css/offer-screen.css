@@ -1,0 +1,27 @@
+.offer-screen_container {
+    display: flex;
+    align-items: center;
+    padding: 76px 125px 75px 122px;
+    border-radius: 60px;
+    background: linear-gradient(102deg, #FFF6DF 17.38%, #FFDFDE 81.25%);
+    justify-content: space-between;
+}
+
+.offer_modify {
+    gap: 24px;
+}
+
+.offer__tittle_modify {
+    width: 475px;
+    font-size: 40px;
+}
+
+.offer__text_modify {
+    width: 371;
+}
+
+.offer-screen-ladybug {
+    width: 287px;
+    height: 287px;
+}
+

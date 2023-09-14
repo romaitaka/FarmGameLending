@@ -1,0 +1,41 @@
+.introduction__container {
+    width: 720px;
+}
+
+.introduction__tittle {
+    text-align: center;
+    color: #000;
+    font-size: 40px;
+}
+
+.items__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 41px;
+    width: 100%;
+    margin-top: 70px;
+}
+
+.introduction__item {
+    display: flex;
+    width: 100%;
+    gap: 34px;
+}
+
+.introduction__icon {
+    width: 73px;
+    height: 73px;
+}
+.description {
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+}
+.description__tittle {
+    font-size: 30px;
+}
+
+.description__text {
+    font-size: 18px;
+}
+
