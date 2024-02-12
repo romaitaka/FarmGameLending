@@ -1,5 +1,9 @@
 .introduction__container {
     width: 720px;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    align-items: center;
 }
 
 .introduction__tittle {
@@ -13,12 +17,11 @@
     flex-direction: column;
     gap: 41px;
     width: 100%;
-    margin-top: 70px;
 }
 
 .introduction__item {
     display: flex;
-    width: 100%;
+    width: inherit;
     gap: 34px;
 }
 

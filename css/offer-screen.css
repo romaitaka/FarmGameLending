@@ -9,15 +9,16 @@
 
 .offer_modify {
     gap: 24px;
+    width: 475px;
 }
 
 .offer__tittle_modify {
-    width: 475px;
+    width: inherit;
     font-size: 40px;
 }
 
 .offer__text_modify {
-    width: 371;
+    width: 371px;
 }
 
 .offer-screen-ladybug {
